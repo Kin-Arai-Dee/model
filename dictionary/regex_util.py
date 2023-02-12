@@ -8,4 +8,4 @@ number_with_special_character_regex = r'((?:[\d\u00BC-\u00BE\u2150-\u215E]+(?:\s
 
 fraction_regex =r'[\u00BgC-\u00BE\u2150-\u215E]+' # match ½
 
-# num_on_start_and_in_parentheses = r"\(.*?\)|^\d+[.)]\s"
+num_on_start_and_in_parentheses = r"^\d+[.)|\s]*"

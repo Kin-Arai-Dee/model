@@ -24,9 +24,8 @@ tag_category = {
     "bread-recipes",
     "chicken-breast-recipes",
     "salmon-recipes",
-    "knorr-recipes",
     "sausage-recipes",
-    "shell-recipes"
+    "shell-recipes",
   ],
   "ประเภทอาหาร": [
     "chili-paste-recipes",
@@ -42,7 +41,6 @@ tag_category = {
     "thai-side-dish-recipes",
     "thai-noodle-recipes",
     "steak-recipes",
-    "main-dish-recipes",
     "sauce-recipes",
     "International-Recipe",
     "korean-food-recipes",
@@ -52,7 +50,10 @@ tag_category = {
     "side-dish-recipes",
     "breakfast-recipes",
     "chinese-food-recipes",
-    "northern-thai-food-recipes"
+    "northern-thai-food-recipes",
+    "cake-recipes", 
+    "bakery-recipes", 
+    "thai-dessert-recipes",
   ],
   "วิธีการ": [
     "fried-recipes",
@@ -66,25 +67,6 @@ tag_category = {
     "thai-spicy-salad-recipes",
     "boiled-recipes"
   ],
-  "เมนูพิเศษ/ตามเทศกาล": [
-    "budget-recipes",
-    "bento-recipes",
-    "Fathers-day-recipe",
-    "15-minute-recipes",
-    "Vegan-Recipe",
-    "Recipe-Activity-sponsored-by-Knorr",
-    "share-recipe-activity-by-knorr",
-    "mothers-day-recipe",
-    "Vegetarian-Festival-Activity",
-    "money-making-recipes",
-    "sart-chin-recipes",
-    "new-knorr-recipe",
-    "Valentines-recipe",
-    "dorm-room-recipes",
-    "Chinese-new-year-food",
-    "Mothers-Day-Activity-sponsored-by-Knorr",
-    "Christmas-Recipe"
-  ],
   "อาหารเพื่อสุขภาพ": [
     "weight-loss-recipes",
     "low-calorie-recipes",
@@ -93,18 +75,4 @@ tag_category = {
     "salad-recipes",
     "low-fat-recipes"
   ],
-  "เมนูเด็ก": [
-    "1-3-year-baby-recipes",
-    "recipes-for-kids-over-7-yrs",
-    "6-12-month-baby-recipes",
-    "baby-recipes",
-    "3-7-year-kid-recipes"
-  ],
-  "ซิโนคุกกิ้งคลับ": ["sinocookingclub"],
-  "คุกกิ้งชาเลนจ์": ["cc-chicken", "cc-pork", "cc-beef"],
-  "เครื่องดื่ม": ["smoothie-recipes"],
-  "ฟิลิปส์": ["Philips-Airfryer-Activity"],
-  "อิเล็กโทรลักซ์": ["electrolux"],
-  "ของหวาน/เบเกอรี": ["cake-recipes", "bakery-recipes", "thai-dessert-recipes"],
-  "ampawa coconut milk": ["ampawa-coconut-milk"]
 }

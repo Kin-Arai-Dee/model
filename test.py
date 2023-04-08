@@ -33,12 +33,16 @@
 
 import re
 
-def remove_prefix(s):
-    pattern = r'^\d+[.)|\s]*'
-    s = re.sub(pattern, '', s)
-    return s.strip()
+# def remove_prefix(s):
+#     pattern = r'^\d+[.)|\s]*'
+#     s = re.sub(pattern, '', s)
+#     return s.strip()
 
-# Example usage
-s = '1). This is a sample string.'
-s = remove_prefix(s)
-print(s)  # Output: 'This is a sample string.'
+# # Example usage
+# s = '1). This is a sample string.'
+# s = remove_prefix(s)
+# print(s)  # Output: 'This is a sample string.'
+
+s = re.match('^พริก$|พริกสด|พริกจินดา|พริกแดง|พริกใหญ่|พริกสับ|พริกอ่อน|พริกตำ|พริกซอย|พริกทอด|พริกสีแดง|พริกหั่น|พริกคั่ว|พริก\+|พริกหั่นเฉียง','พริกไทย')
+
+print(s)

@@ -24,7 +24,6 @@
     "bread-recipes",
     "chicken-breast-recipes",
     "salmon-recipes",
-    "knorr-recipes",
     "sausage-recipes",
     "shell-recipes"
   ],
@@ -92,19 +91,5 @@
     "clean-food-recipes",
     "salad-recipes",
     "low-fat-recipes"
-  ],
-  "เมนูเด็ก": [
-    "1-3-year-baby-recipes",
-    "recipes-for-kids-over-7-yrs",
-    "6-12-month-baby-recipes",
-    "baby-recipes",
-    "3-7-year-kid-recipes"
-  ],
-  "ซิโนคุกกิ้งคลับ": ["sinocookingclub"],
-  "คุกกิ้งชาเลนจ์": ["cc-chicken", "cc-pork", "cc-beef"],
-  "เครื่องดื่ม": ["smoothie-recipes"],
-  "ฟิลิปส์": ["Philips-Airfryer-Activity"],
-  "อิเล็กโทรลักซ์": ["electrolux"],
-  "ของหวาน/เบเกอรี": ["cake-recipes", "bakery-recipes", "thai-dessert-recipes"],
-  "ampawa coconut milk": ["ampawa-coconut-milk"]
+  ]
 }

@@ -1,1 +1,1 @@
-protein_carbo_list = {"protein" : ["pork","egg","shrimp","chicken","fish","offal","crab","squid","duck","beef","process_meat","shellfish","tofu","fish_maw"], "carbo": ["rice","noodle","bean","bread","milk","potato","grain"], "vegetable" : ["vegetable"], "fruit" : ["fruit"]}
+protein_carbo_list = {"protein" : ["pork","egg","shrimp","chicken","fish","offal","crab","squid","duck","beef","process_meat","shellfish","tofu","fish_maw"], "carbo": ["rice","noodle","bean","bread","milk","potato","grain"], "mineral" : ["vegetable"], "vitamit" : ["fruit"]}

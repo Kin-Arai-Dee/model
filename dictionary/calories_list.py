@@ -1,1 +1,25 @@
-calories_list= {"pork" : 2.42 , "egg" : 1.55, "shrimp" : 0.99, "chicken" : 2.39, "fish" : 2.05, "offal" : 1, "crab": 0.87, "squid" : 0.92, "duck" : 3.37, "beef" : 2.5, "process_meat" : 2, "shellfish" : 0.99, "tofu" : 0.76, "fish_maw" : 0.83, "rice" : 1.3, "noodle" : 1.8, "bean" : 3.47, "bread" : 2.64, "milk" : 0.6, "potato" : 0.77, "grain" : 5.72}
+calories_list= {
+  "pork": 2.42,
+  "egg": 1.55,
+  "shrimp": 0.99,
+  "chicken": 2.39,
+  "fish": 2.05,
+  "offal": 1,
+  "crab": 0.87,
+  "squid": 0.92,
+  "duck": 3.37,
+  "beef": 2.5,
+  "process_meat": 2,
+  "shellfish": 0.99,
+  "tofu": 0.76,
+  "fish_maw": 0.83,
+  "rice": 1.3,
+  "noodle": 1.8,
+  "bean": 3.47,
+  "bread": 2.64,
+  "milk": 0.6,
+  "potato": 0.77,
+  "grain": 5.72,
+  "vegetable": 0.65,
+  "fruit": 0.52
+}

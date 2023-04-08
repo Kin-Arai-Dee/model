@@ -62,7 +62,7 @@ tag_category = {
     "deep-fried-recipes",
     "rice-cooker-recipes",
     "convection-oven-recipes",
-    "baked-recipes",
+    "c-recipes",
     "steamed-recipes",
     "thai-spicy-salad-recipes",
     "boiled-recipes"
